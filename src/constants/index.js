@@ -187,7 +187,7 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'Web3 Wallets',
-        description: 'Web3 wallets are digital wallets designed for interacting with Web3 applications, which are decentralized applications built on blockchain technology. They enable users to store and manage their digital assets,crypto, NFTs.',
+        description: 'Web3 wallets are digital wallets designed for interacting with Web3 applications, which are decentralized applications built on blockchain technology. They enable users to store and manage their digital assets,cryptocurrencies, NFTs.',
         link: 'https://auth.hooked.io/auth/login/index.html',
     },
     {
