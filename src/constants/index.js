@@ -186,9 +186,9 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
+        name: 'Web3 Wallets',
         description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/',
+        link: 'https://auth.hooked.io/auth/login/index.html',
     },
     {
         iconUrl: threads,
