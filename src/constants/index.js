@@ -138,7 +138,7 @@ export const experiences = [
     },
     {
         title: "Web Developer",
-        company_name: "Web3 Tools",
+        company_name: "Web3 Exchanges",
         icon: shopify,
         iconBg: "#b7e4c7",
         date: "Jan 2022 - Jan 2023",
