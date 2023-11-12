@@ -125,7 +125,7 @@ export const experiences = [
     },
     {
         title: "React Native Developer",
-        company_name: "TDecentralized Finance (DeFi)",
+        company_name: "Decentralized Finance (DeFi)",
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "Jan 2021 - Feb 2022",
