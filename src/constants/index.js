@@ -193,9 +193,9 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com',
+        name: 'Decentralized Finance (DeFi)',
+        description: 'Decentralized Finance (DeFi) is a new financial paradigm that leverages distributed ledger technologies to offer services such as lending, investing, or exchanging cryptoassets without relying on a traditional centralized intermediary.',
+        link: 'https://carol.finance/?ref=0x9043A9757aE62dE77C0065f0C039760c1AB92B8E',
     },
     {
         iconUrl: car,
