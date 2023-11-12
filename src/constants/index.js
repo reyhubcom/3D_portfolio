@@ -125,7 +125,7 @@ export const experiences = [
     },
     {
         title: "React Native Developer",
-        company_name: "Tesla",
+        company_name: "TDecentralized Finance (DeFi)",
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "Jan 2021 - Feb 2022",
@@ -138,7 +138,7 @@ export const experiences = [
     },
     {
         title: "Web Developer",
-        company_name: "Shopify",
+        company_name: "Web3 Tools",
         icon: shopify,
         iconBg: "#b7e4c7",
         date: "Jan 2022 - Jan 2023",
