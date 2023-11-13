@@ -207,9 +207,9 @@ export const projects = [
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/',
+        name: 'Web3 Exchange',
+        description: 'The third generation of the internet, known as Web3, is intended to be secure, decentralized, and transparent. Without the use of intermediaries or centralized authorities, peer-to-peer interactions are made possible.',
+        link: 'https://osis.exchange',
     },
     {
         iconUrl: estate,
