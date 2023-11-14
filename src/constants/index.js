@@ -26,9 +26,8 @@ import {
     typescript
 } from "../assets/icons";
 
-export const skills =
-    [
-        <script defer src="https://www.livecoinwatch.com/static/lcw-widget.js"></script> <div class="livecoinwatch-widget-5" lcw-base="USD" lcw-color-tx="#999999" lcw-marquee-1="coins" lcw-marquee-2="movers" lcw-marquee-items="10" ></div>
+export const skills = [
+       
     {
         imageUrl: css,
         name: "CSS",
