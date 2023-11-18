@@ -22,12 +22,12 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-        Peerless, actionable, multichain data and coverage on the widest selection of dapps, NFT collections, DeFi projects and more. View top collections, trending dapps, trader volume and maybe, just maybe, uncover the next blockchain unicorn.
+        Blockchain technology is an advanced database mechanism that allows transparent information sharing within a business network. A blockchain database stores .
         </p>
       </div>
 
       <div className='py-10 flex flex-col'>
-        <h3 className='subhead-text'>For More To Explore</h3>
+        <h3 className='subhead-text'>List Of Blockchains</h3>
 
         <div className='mt-16 flex flex-wrap gap-12'>
           {skills.map((skill) => (
