@@ -8,7 +8,7 @@ import { experiences, skills } from "../constants";
 
 import "react-vertical-timeline-component/style.min.css";
 
-const Blockchains = () => {
+const About = () => {
   return (
     <section className='max-container'>
       <h1 className='head-text'>
