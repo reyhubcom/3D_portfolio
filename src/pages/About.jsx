@@ -12,23 +12,22 @@ const About = () => {
   return (
     <section className='max-container'>
       <h1 className='head-text'>
-        Hello, I'm{" "}
+        All{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Reyanto
+          Blockchains
         </span>{" "}
         👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer Based in Indonesia, Specializing in Technical
-           The Web3 Investment Through Hands-On Learning and Building Applications.
+        Peerless, actionable, multichain data and coverage on the widest selection of dapps, NFT collections, DeFi projects and more. View top collections, trending dapps, trader volume and maybe, just maybe, uncover the next blockchain unicorn.
         </p>
       </div>
 
       <div className='py-10 flex flex-col'>
-        <h3 className='subhead-text'>My Skills</h3>
+        <h3 className='subhead-text'>For More To Explore</h3>
 
         <div className='mt-16 flex flex-wrap gap-12'>
           {skills.map((skill) => (
